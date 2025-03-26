@@ -1,3 +1,17 @@
+structure
+
+── app
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── crud.py
+│   ├── schemas.py
+│   └── utils.py
+├── requirements.txt
+└── README.md
+
+
 # RAG CSV Analyser
 
 ## Installation
